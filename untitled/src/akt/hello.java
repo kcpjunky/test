@@ -5,6 +5,6 @@ package akt;
  */
 public class hello {
     public static void main(String[] args){
-        System.out.print("testkanryo");
+        System.out.print("testkanryo2");
     }
 }
