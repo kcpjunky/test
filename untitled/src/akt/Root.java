@@ -2,7 +2,9 @@ package akutsu;
 
 public class Root {
 	public void root(int x) {
-		
+		if (x < 0) {
+			throw new Error();
+		}
 		//double x = 11;
 		int p1 = 0;
 		int p2 = 0;
