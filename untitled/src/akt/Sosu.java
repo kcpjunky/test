@@ -6,9 +6,6 @@ public class Sosu {
 		boolean[] isPrime = new boolean[101];
 		
 		for (int i=2; i<100; i++) {
-			if (i==2) {
-				isPrime[i] = true;
-			}
 			isPrime[i] = true;
 		}
 		
