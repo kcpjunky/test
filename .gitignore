@@ -27,6 +27,7 @@ build
 dist
 target
 bin
+out
 
 tmp_client_script.q
 tmp_client_data.log
